@@ -1,5 +1,7 @@
 # A Vim-Based Integrated Research Environment
 
+A Vim-based academic research and writing environment, with very few dependencies and vim plugins. Build a sprawling, densely-connected Zettelkasten, and draft academic articles, books or presentations without ever leaving Vim.  
+
 ## Dependecies
 
 - A recent version of [Vim](https://www.vim.org/) or Neovim.
