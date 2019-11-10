@@ -2,6 +2,14 @@
 
 A Vim-based academic research and writing environment, with a bare minimum of dependencies and vim plugins. Build a sprawling, densely-connected Zettelkasten, and draft academic articles, books or presentations without ever leaving Vim. 
 
+## Why Vim
+
+The reasons for this are simple: 1) Vim is the most powerful writing/editing technological innovation since the invention of pen and paper, and learning to use it is truly like growing wings; 2) the original vi program was created in 1976 (43 years ago!), and Vim has been around since 1991 (28 years ago). Vim is the surest way to avoid the [impending note-taking apocalypse](https://medium.com/swlh/welcome-to-the-note-taking-apocalypse-64a74481a5ab); and 3) Vim uses plain text files that can be viewed, opened and edited anywhere and as long as there are computers. 
+
+## Can I use Something Else?
+
+Yes, albeit with a much more limited functionality. The closest you can get with a GUI interface in Mac is [nvALT](https://brettterpstra.com/projects/nvalt/). Without a GUI, you can always give [org-mode](https://orgmode.org/) a shot, which is too bloated for my taste. 
+
 ## Dependecies
 
 - A recent version of [Vim](https://www.vim.org/) or Neovim.
