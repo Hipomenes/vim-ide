@@ -6,7 +6,7 @@ A Vim-based academic research and writing environment, with a bare minimum of de
 
 The reasons for this are simple: 1) Vim is the most powerful writing/editing technology since the invention of pen and paper, and learning to use it is truly like growing wings and ["editing at the speed of though"](https://vimeo.com/53144573); 2) the original vi program was created in 1976 (43 years ago), and Vim has been around since 1991 (28 years ago). Vim is the surest way to avoid the [impending note-taking apocalypse](https://medium.com/swlh/welcome-to-the-note-taking-apocalypse-64a74481a5ab); and 3) Vim uses good old plain text files that can be viewed and edited anywhere and as long as there are computers. 
 
-## Can I use Something Else?
+## Can I use something else?
 
 Yes, albeit with a much more limited functionality. The closest you can get in a Mac is the commendable [nvALT](https://brettterpstra.com/projects/nvalt/). And of course there's always [org-mode](https://orgmode.org/), if you're willing to give it a shot.
 
