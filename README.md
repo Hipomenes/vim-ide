@@ -1,6 +1,6 @@
 # A Vim-Based Integrated Research Environment
 
-A Vim-based academic research and writing environment, with a bare minimum of dependencies and vim plugins. Build a sprawling, densely-connected Zettelkasten, and draft academic articles, books or presentations without ever leaving Vim. 
+A Vim-based academic research and writing environment, with a bare minimum of dependencies and vim plugins. Build a sprawling, densely-connected Zettelkasten, and let it grow naturally into academic articles, books or presentations without ever leaving Vim.
 
 ## Why Vim
 
