@@ -15,7 +15,7 @@ Yes, albeit with a much more limited functionality. The closest you can get in a
 - A recent version of [Vim](https://www.vim.org/) or Neovim.
 - [Pandoc](https://pandoc.org), a universal document converter. If, like me, you make heavy use of images in your work, I recommend using the [pandoc-fignos](https://github.com/tomduck/pandoc-fignos) filter, a simple and elegant way of numbering and referencing figures. 
 - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) and [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax).
-- A decent color schem, such as [solarized](https://github.com/altercation/vim-colors-solarized) or [gruvbox](https://github.com/morhetz/gruvbox).
+- A decent color scheme, such as [solarized](https://github.com/altercation/vim-colors-solarized) or [gruvbox](https://github.com/morhetz/gruvbox).
 - [goyo](https://github.com/junegunn/goyo.vim), distraction-free writing in Vim.
 - [fzf](https://github.com/junegunn/fzf), the command-line fuzzy finder.
 - [ag](https://github.com/ggreer/the_silver_searcher), a powerful searching tool.
